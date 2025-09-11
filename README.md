@@ -16,7 +16,7 @@ ChatGPT 是由 OpenAI 开发的自然语言处理工具，基于 GPT（Generativ
 
 为了确保安全性并使用原版功能，您可以通过以下链接直接下载 ChatGPT 安卓安装包（APK）：
 
-* **下载链接**：[ChatGPT 官方 APK 下载](https://image.ch-at.pw/uploads/ChatGPT.apk)
+* **下载链接**：[ChatGPT 官方 APK 下载](https://www.btueb.cn/)
 
 通过点击链接，您将被引导至 ChatGPT 官方的 APK 下载页面。确保您选择了正确的版本并点击“下载”按钮，开始获取 ChatGPT 安装包。
 
